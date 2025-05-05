@@ -1,4 +1,4 @@
-# Análisis de Datos de Alura Store para Decisión de Venta de Tienda
+# Análisis de datos de Alura Store
 
 Este proyecto realiza un análisis de datos de las cuatro tiendas de Alura Store para proporcionar información valiosa que respalde la decisión de vender una de las tiendas. El análisis se enfoca en identificar la tienda menos eficiente en términos de rendimiento financiero y otros factores relevantes.
 
